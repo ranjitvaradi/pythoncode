@@ -1,4 +1,2 @@
-l= ["chicken","mutton","fish"]
-m=["mushrooms"]
-l.append("mashroom")
-print(l)
+s=list(range(5))
+print(s)
