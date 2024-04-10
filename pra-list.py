@@ -1,2 +1,2 @@
-s=list(range(5))
-print(s)
+from scipy import stats
+
